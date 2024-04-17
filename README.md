@@ -1,4 +1,10 @@
 # employee
+Backend - NodeJS MongoDB
+Frontend - Flutter, Bloc, go_route
+
+<img src="https://github.com/shubhamxsagar/zylu-assignment/assets/72368658/8c09d4aa-1cc9-4b0f-8852-c2e0b5d565dd" width="200" height="400" />
+
+<img src="https://github.com/shubhamxsagar/zylu-assignment/assets/72368658/3a790691-0f6f-44b3-b20f-b8c06f97dba1" width="200" height="400" />
 
 A new Flutter project.
 
